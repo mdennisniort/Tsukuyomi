@@ -1,0 +1,343 @@
+
+html {
+    background: url("/assets/images/TsukuyomiBeta.jpg") no-repeat center center fixed;
+    background-size: cover;
+} 
+
+.button:hover {
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #352a41 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #6e35a7;
+    background-image: -moz-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -ms-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -o-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -webkit-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: linear-gradient(45deg, #97d3cf, #6e35a7);
+    border-radius: 32px;
+    border: 3px solid #dad1e6;
+    box-shadow: #352a41 3px 3px 20px;
+    color: #260d3a;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 53%;
+    margin-top: 22%;
+    padding: 18px;
+    text-decoration: none;
+    text-shadow: #351a4c 5px 7px 17px;
+    transition: all 0.5s ease;
+ }
+ .button {
+     padding: 15px;
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #6c1ebe 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #7814db;
+    background-image: -moz-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -ms-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -o-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -webkit-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: linear-gradient(135deg, #0b0416, #7814db);
+    border-radius: 22px;
+    border: 3px solid #000000;
+    box-shadow: #6c1ebe 3px 3px 20px;
+    color: #9e43f4;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 53%;
+    margin-top: 22%;
+    text-decoration: none;
+    text-shadow: #161217 6px 5px 10px;
+    transition: all 0.5s ease;
+  
+}
+
+.texts {
+    margin-top: 15%;
+    margin-left: 70%;
+    height:100px;
+    width:100px;
+    }
+
+.rule {
+    margin-left: 49%;
+    font-family: 'Times New Roman';
+    color : #cce7ff;
+    opacity : 0,5;
+    font-style : italic;
+    font-weight: normal;
+    text-shadow : 2px 2px 1px #005fb3;
+  
+}
+
+.selection {
+    margin-left: 49%;
+    font-family: 'Times New Roman';
+    color :  #0047b3;
+    opacity : 0,5;
+    text-shadow: 1px 1px 2px #e6ffff, 0 0 1em white, 0 0 0.2em black;
+    font-size : 40px;
+}
+
+.file {
+    margin-left: 49%;
+    font-family: 'Times New Roman';
+    color : #cce7ff;
+    opacity : 0,5;
+    font-style : italic;
+    font-weight: normal;
+    font-size : 17px;
+   }
+
+.options {
+    font-family: 'Times New Roman';
+    opacity : 0,5;
+    font-size : 20px;
+    
+}
+
+
+.button2:hover {
+    -moz-border-radius: 12px;
+    -moz-box-shadow: #352a41 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 16px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #6e35a7;
+    background-image: -moz-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -ms-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -o-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -webkit-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: linear-gradient(45deg, #97d3cf, #6e35a7);
+    border-radius: 12px;
+    border: 2px solid #dad1e6;
+    box-shadow: #352a41 3px 3px 20px;
+    color: #260d3a;
+    display: inline-block;
+    font-family: Times;
+    font-size: 45px;
+    margin-left: 77%;
+    padding: 10px;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    font-family: 'Times New Roman';
+    font-style : bold;
+    color :   #00004d;
+    opacity : 0,5;
+    text-shadow: 1px 1px 2px #e6ffff, 0 0 1em white, 0 0 0.2em black;
+ }
+ .button2 {
+    margin-left: 77%;
+    padding: 12px;
+    -moz-border-radius: 25px;
+    -moz-box-shadow: #6c1ebe 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 25px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #7814db;
+    background-image: -moz-linear-gradient(135deg, #7300e6, #b3ccff);
+    background-image: -ms-linear-gradient(135deg, #7300e6, #b3ccff);
+    background-image: -o-linear-gradient(135deg, #7300e6, #b3ccff);
+    background-image: -webkit-linear-gradient(135deg, #7300e6, #b3ccff);
+    background-image: linear-gradient(135deg, #7300e6, #b3ccff);
+    border-radius: 15px;
+    border: 2px solid #000000;
+    box-shadow: #6c1ebe 3px 3px 15px;
+    display: inline-block;
+    font-family: Times;
+    font-size: 44px;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    font-family: 'Times New Roman';
+    font-style : bold;
+    color :   #00004d;
+    opacity : 0,5;
+    text-shadow: 1px 1px 2px #e6ffff, 0 0 1em white, 0 0 0.2em black;
+    
+}
+
+
+
+.button3:hover {
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #352a41 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #6e35a7;
+    background-image: -moz-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -ms-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -o-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -webkit-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: linear-gradient(45deg, #97d3cf, #6e35a7);
+    border-radius: 32px;
+    border: 3px solid #dad1e6;
+    box-shadow: #352a41 3px 3px 20px;
+    color: #260d3a;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 86%;
+    padding: 18px;
+    text-decoration: none;
+    text-shadow: #351a4c 5px 7px 17px;
+    transition: all 0.5s ease;
+ }
+ .button3 {
+    padding: 15px;
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #6c1ebe 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #7814db;
+    background-image: -moz-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -ms-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -o-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -webkit-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: linear-gradient(135deg, #0b0416, #7814db);
+    border-radius: 22px;
+    border: 3px solid #000000;
+    box-shadow: #6c1ebe 3px 3px 20px;
+    color: #9e43f4;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 86%;
+    text-decoration: none;
+    text-shadow: #161217 6px 5px 10px;
+    transition: all 0.5s ease;
+  
+}
+
+.imgPreview {
+    margin-left : 49%;
+    max-width: 100px; 
+    max-height: 40px; 
+}
+
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.5);
+  }
+  .popup_inner {
+    border-style: solid;
+    border-width: 5px;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    margin: auto;
+    background: url("/assets/images/moon.png") no-repeat center center fixed;
+  }
+
+  .img {
+
+  width: 120px;
+  height: 70px
+  }
+
+
+  .button4:hover {
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #352a41 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #6e35a7;
+    background-image: -moz-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -ms-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -o-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: -webkit-linear-gradient(45deg, #97d3cf, #6e35a7);
+    background-image: linear-gradient(45deg, #97d3cf, #6e35a7);
+    border-radius: 32px;
+    border: 3px solid #dad1e6;
+    box-shadow: #352a41 3px 3px 20px;
+    color: #260d3a;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 39%;
+    margin-top: 22%;
+    padding: 18px;
+    text-decoration: none;
+    text-shadow: #351a4c 5px 7px 17px;
+    transition: all 0.5s ease;
+ }
+ .button4 {
+     padding: 15px;
+    -moz-border-radius: 32px;
+    -moz-box-shadow: #6c1ebe 3px 3px 20px;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-border-radius: 32px;
+    -webkit-box-shadow: #6E7849 0 0 10px;
+    -webkit-transition: all 0.5s ease;
+    background-color: #7814db;
+    background-image: -moz-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -ms-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -o-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: -webkit-linear-gradient(135deg, #0b0416, #7814db);
+    background-image: linear-gradient(135deg, #0b0416, #7814db);
+    border-radius: 22px;
+    border: 3px solid #000000;
+    box-shadow: #6c1ebe 3px 3px 20px;
+    color: #9e43f4;
+    display: inline-block;
+    font-family: Times;
+    font-size: 3em;
+    margin-left: 39%;
+    margin-top: 22%;
+    text-decoration: none;
+    text-shadow: #161217 6px 5px 10px;
+    transition: all 0.5s ease;
+  
+}
+
+.rule2 {
+    margin-left: 20%;
+    font-family: 'Times New Roman';
+    color : #cce7ff;
+    opacity : 0,5;
+    font-style : italic;
+    font-weight: normal;
+    text-shadow : 2px 2px 1px #005fb3;
+    font-size: 45px;
+  
+}
